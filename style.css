@@ -51,7 +51,7 @@ background-color: var(--Cream);
 
 
 #contaner .info{
-    padding:1.6rem;
+    padding:1.7rem;
 }
 #contaner .info .perfume{
    font-family:var(--font-m);
@@ -150,8 +150,8 @@ border: none;
     #contaner{
         display: flex;
         flex-direction: row;
-        width: 37%;
-        height:65vh;
+        width: 40%;
+        height:62vh;
         border-radius:5px;
         
     
@@ -159,7 +159,7 @@ border: none;
 
     #contaner picture img{
         width: auto;
-        height: 65vh;
+        height: 62vh;
     }
 
 
