@@ -150,7 +150,7 @@ border: none;
     #contaner{
         display: flex;
         flex-direction: row;
-        width: 38%;
+        width: 37%;
         height:65vh;
         border-radius:5px;
         
